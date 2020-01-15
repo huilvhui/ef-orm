@@ -112,6 +112,8 @@ public abstract class GenericDaoSupport<T extends IQueryableEntity> extends Base
 		}
 	}
 
+
+
 	/*
 	 * (non-Javadoc)
 	 * 
